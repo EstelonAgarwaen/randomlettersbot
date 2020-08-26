@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/EstelonAgarwaen/randomlettersbot#readme",
   "dependencies": {
+    "discord.io": "^2.5.3",
     "discord.js": "^12.3.1",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "winston": "^3.3.3"
   }
 }
