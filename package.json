@@ -1,0 +1,23 @@
+{
+  "name": "randomlettersbot",
+  "version": "1.0.0",
+  "description": "a bot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EstelonAgarwaen/randomlettersbot.git"
+  },
+  "author": "Estelon Agarwaen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EstelonAgarwaen/randomlettersbot/issues"
+  },
+  "homepage": "https://github.com/EstelonAgarwaen/randomlettersbot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0"
+  }
+}
